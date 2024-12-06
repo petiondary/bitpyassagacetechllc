@@ -1,0 +1,836 @@
+Uri: https://coinpool.sacredthemes.net/cp-glass.html
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\cp-glass.html
+Content Type: text/html
+
+Uri: https://coinpool.sacredthemes.net/cp-platinum-single-post-with-left-sidebar.html
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\cp-platinum-single-post-with-left-sidebar.html
+Content Type: text/html
+
+Uri: https://coinpool.sacredthemes.net/cp-platinum-single-post-with-no-sidebar.html
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\cp-platinum-single-post-with-no-sidebar.html
+Content Type: text/html
+
+Uri: https://coinpool.sacredthemes.net/cp-platinum-single-post-with-right-sidebar.html
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\cp-platinum-single-post-with-right-sidebar.html
+Content Type: text/html
+
+Uri: https://coinpool.sacredthemes.net/cp-platinum.html
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\cp-platinum.html
+Content Type: text/html
+
+Uri: https://coinpool.sacredthemes.net/css/animate.css
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\css (1)\animate.css
+Content Type: text/css
+
+Uri: https://coinpool.sacredthemes.net/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\css (1)\bootstrap.css
+Content Type: text/css
+
+Uri: https://coinpool.sacredthemes.net/css/fancybox/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\css (1)\fancybox\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://coinpool.sacredthemes.net/css/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\css (1)\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://coinpool.sacredthemes.net/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\css (1)\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://coinpool.sacredthemes.net/css/responsive.css
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\css (1)\responsive.css
+Content Type: text/css
+
+Uri: https://coinpool.sacredthemes.net/css/responsive2.css
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\css (1)\responsive2.css
+Content Type: text/css
+
+Uri: https://coinpool.sacredthemes.net/css/slick.css
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\css (1)\slick.css
+Content Type: text/css
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://coinpool.sacredthemes.net/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://coinpool.sacredthemes.net/images/about-img-1.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\about-img-1.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/arrow1.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\arrow1.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/banner-5.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\banner-5.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/benefit-icon-1.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\benefit-icon-1.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/benefit-icon-2.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\benefit-icon-2.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/benefit-icon-4.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\benefit-icon-4.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/benefit-icon-5.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\benefit-icon-5.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/benefit-icon-6.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\benefit-icon-6.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/bg-1.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/bg-2.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/bg-3.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/bg-4.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\bg-4.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/bg-5.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\bg-5.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/bitcoin-inside.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\bitcoin-inside.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/blog-img1.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\blog-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/blog-img2.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\blog-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/blog-img3.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\blog-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/bookmark.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\bookmark.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/brand-logo-dark1.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\brand-logo-dark1.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/brand-logo-dark2.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\brand-logo-dark2.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/brand-logo-dark3.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\brand-logo-dark3.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/brand-logo-dark4.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\brand-logo-dark4.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/brand-logo-dark5.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\brand-logo-dark5.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/coin-1.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\coin-1.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/coin-2.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\coin-2.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/coin-3.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\coin-3.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/coin-4.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\coin-4.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/coin-5.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\coin-5.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/coin-6.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\coin-6.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/coin-7.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\coin-7.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/coin-bg-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\coin-bg-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/coinpool-dots-circle.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\coinpool-dots-circle.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/company-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\company-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/dark-logo.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\dark-logo.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/diamond-base-1.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\diamond-base-1.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/diamond-base.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\diamond-base.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/diamond-grid-1.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\diamond-grid-1.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/diamond-grid-2.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\diamond-grid-2.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/diamond-main.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\diamond-main.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/diamond-top-coin.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\diamond-top-coin.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/diamond-top-lines.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\diamond-top-lines.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/diamond-top-ring.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\diamond-top-ring.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/diamond-top.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\diamond-top.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/down-arrow.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\down-arrow.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/earth-icon-1.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\earth-icon-1.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/earth-icon-2.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\earth-icon-2.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/earth-icon-3.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\earth-icon-3.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/earth-icon-4.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\earth-icon-4.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/earth-icon-5.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\earth-icon-5.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/earth-icon-6.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\earth-icon-6.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/email-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\email-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/exchange-list-icon-2.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\exchange-list-icon-2.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/exchange-list-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\exchange-list-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/favi-icon.ico
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\favi-icon.ico
+Content Type: image/x-icon
+
+Uri: https://coinpool.sacredthemes.net/images/favicon.ico
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://coinpool.sacredthemes.net/images/featured-product-img.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\featured-product-img.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/footer-2-bg.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\footer-2-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/gold-animation-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\gold-animation-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/ico-bazar-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\ico-bazar-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/ico-bench-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\ico-bench-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/ico-ranker-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\ico-ranker-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/ico-track-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\ico-track-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/large-c-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\large-c-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/line1.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\line1.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/line2.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\line2.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/logo.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\logo.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/map-bg.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\map-bg.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/mercury-earth-cover.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\mercury-earth-cover.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/mercury-earth-map.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\mercury-earth-map.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/mercury-earth.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\mercury-earth.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/mercury-numbers-1.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\mercury-numbers-1.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/message-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\message-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/OrbitSquare.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\OrbitSquare.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/our-mission-2.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\our-mission-2.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/our-mission.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\our-mission.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/page-header-bg.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\page-header-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/pause-btn.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\pause-btn.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/phone-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\phone-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/pie-chart-img.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\pie-chart-img.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/platinum-base-line.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\platinum-base-line.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/platinum-base.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\platinum-base.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/platinum-move-1.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\platinum-move-1.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/platinum-move-2.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\platinum-move-2.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/platinum-move-3.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\platinum-move-3.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/platinum-top-lines.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\platinum-top-lines.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/platinum-waves.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\platinum-waves.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/play-btn.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\play-btn.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/question-img-rev.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\question-img-rev.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/question-img.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\question-img.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-1/b-logo.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-1\b-logo.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-1/coin-base-new1.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-1\coin-base-new1.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-1/coin.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-1\coin.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-1/down-arrow.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-1\down-arrow.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-1/sec-1-coin-bg.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-1\sec-1-coin-bg.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-1/section-1-banner.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-1\section-1-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/section-1/up-arrow.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-1\up-arrow.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-1/w-logo.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-1\w-logo.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-11/expert-1.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-11\expert-1.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/section-11/expert-3.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-11\expert-3.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/section-11/expert2.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-11\expert2.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/section-13/blog-img-1.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-13\blog-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/section-13/blog-img-2.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-13\blog-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/section-13/blog-img-3.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-13\blog-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/section-13/blog-img-4.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-13\blog-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/section-14/brand-logo-1.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-14\brand-logo-1.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-14/brand-logo-2.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-14\brand-logo-2.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-14/brand-logo-3.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-14\brand-logo-3.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-14/brand-logo-4.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-14\brand-logo-4.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-2/ico-bazar.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-2\ico-bazar.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-2/ico-bench.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-2\ico-bench.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-2/ico-ranker.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-2\ico-ranker.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-2/ico-track.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-2\ico-track.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-2/list-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-2\list-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-2/sec-2-exchange-list-2.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-2\sec-2-exchange-list-2.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-3/sec-3-img-bg.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-3\sec-3-img-bg.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-3/sec-3-img1.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-3\sec-3-img1.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-4/play-btn.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-4\play-btn.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-4/sec-4-bg.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-4\sec-4-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/section-5/instant-exchange-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-5\instant-exchange-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-5/margin.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-5\margin.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-5/mobile-app-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-5\mobile-app-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-5/network-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-5\network-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-5/safe-secure-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-5\safe-secure-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-6/convert-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-6\convert-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-6/d-arrow.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-6\d-arrow.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-7/chart.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-7\chart.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-8/featured-prd-bg-img.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-8\featured-prd-bg-img.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-8/featured-prd-img.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-8\featured-prd-img.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-9/roadmap-list-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-9\roadmap-list-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/section-9/roadmap-list-icon2.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\section-9\roadmap-list-icon2.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/slider-line.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\slider-line.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/team-1.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/team-2.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/team-4.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/team-bg.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\team-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/team-medium.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\team-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/images/tr-circle-bg.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\tr-circle-bg.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/user-icon.png
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\user-icon.png
+Content Type: image/png
+
+Uri: https://coinpool.sacredthemes.net/images/video-bg-1.jpg
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\images\video-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://coinpool.sacredthemes.net/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/js/chart-function.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\chart-function.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/js/Chart.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\Chart.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/js/circle-progress.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\circle-progress.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/js/fancybox/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\fancybox\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/js/gold-app.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\gold-app.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/js/gold-app2.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\gold-app2.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/js/jquery.countdown.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\jquery.countdown.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/js/onpagescroll.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\onpagescroll.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/js/owl.carousel.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/js/particles.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\particles.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/js/script.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\script.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/js/script2.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\script2.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/js/slick.min.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/js/wow.min.js
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://coinpool.sacredthemes.net/my-style2.css
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\my-style2.css
+Content Type: text/css
+
+Uri: https://coinpool.sacredthemes.net/style.css
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT+Sans:400,700
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\poppins\v22\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\poppins\v22\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\poppins\v22\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\poppins\v22\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\poppins\v22\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\poppins\v22\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KEwA.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\ptsans\v17\jizaRExUiTo99u79D0KEwA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh0O6tKA.ttf
+File Name: C:\Downloaded Web Sites\coinpool.sacredthemes.net\s\ptsans\v17\jizfRExUiTo99u79B_mh0O6tKA.ttf
+Content Type: font/ttf
+
